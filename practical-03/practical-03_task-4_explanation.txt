@@ -1,0 +1,4 @@
+When we are using char data type to store a value 
+it will store only a single character,in order to
+ store a string we can use " cin.getline(a,20) " to 
+ take input of more than one character.
