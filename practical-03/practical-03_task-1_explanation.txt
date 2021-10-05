@@ -1,2 +1,0 @@
-When we run the preprocessor command it will not be able to find the #include<iostream.h> library header file because c++ does not have this library file and hence a fatal error will be shown on the screen.
- 
