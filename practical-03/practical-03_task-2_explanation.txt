@@ -1,4 +1,0 @@
-If we run only the preprocessor it will not 
-show any error but if compile the program then a 
-fatal error will be shown saying "no input files".
-
